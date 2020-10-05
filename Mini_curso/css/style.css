@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700|PT++Mono);
+
+:root{
+    --primary-color: lightcoral;
+    --secundary-color: Dimgrey;
+    --tertiary-color: Gainsboro;
+}
+
+body{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("servico.jpg");
+    background-position: 193px;
+}
+#container{
+    height: 550px;
+    width: 360px;
+    margin: 50px;
+    background: white;
+    box-shadow: 3px 3px 4px#7B68EE;
+    border-radius: 20px;
+}
+.title{
+    background: #4B0082;
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif, Helvetica, sans-serif;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+}
+.tipsForm{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.formInput{
+    background: white;
+    width: 40px;
+    padding: 5px 5px 8px 8px;
+    border-radius: 5px;
+}
+.formInput:focus{
+    border:3px solid #7B68EE;
+    outline: none;
+}
+.formSelect{
+    width: 180px;
+    padding: 5px;
+    font-size: 12px;
+}
+.formSubmit{
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 45px auto;
+    background: #32CD32;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    font-size: 17px;
+    color: white;
+}
+#totalTip{
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: center;
+}
+#tip{
+    background-color: turquoise;
+    border-radius: 4px;
+}
+#question{
+    background-color:#9370DB;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+}
+#question2{
+    background-color:#9370DB;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+}
+#question3{
+    background-color:#9370DB;
+    text-align: center;
+    border-radius: 3px;
+    color: white;
+    padding: 5px;
+}
