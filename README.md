@@ -1,2 +1,7 @@
+#Tecnologias
+- HTML
+- CSS
+- Javascript
+
 # Calculadora_de_gorjetas
-Temos um exemplo simples e prático das tecnologias do "Front End", que são o HTML,CSS e JavaScript, aqui foi desenvolvido uma calculadora de gorjetas com intuito de praticar as tecnologias informadas e iniciar no mundo do JavaScript
+A calculadora de gorjetas é uma aplicação simples, onde se é possível calcular a gorjeta, baseada no valor da conta em relação à satisfação do cliente, além de informar o valor que será pago por cada pessoa, caso a gorjeta seja dividida.
